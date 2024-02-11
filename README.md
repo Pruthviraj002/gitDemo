@@ -1,3 +1,3 @@
 # gitDemo
 This is Git learn repository
-learner-Pruthviraj
+learner-Pruthviraj Yadav
